@@ -1,0 +1,30 @@
+baseURL = "https://hejpriyanka.github.io/"
+languageCode = "en-us"
+title = "Priyanka Yelluru | Backend Developer"
+theme = "ananke"
+
+[params]
+  author = "Priyanka Yelluru"
+  description = "Python Backend Developer | Cloud Technologies | Test Automation"
+  github = "hejpriyanka"
+  linkedin = "priyanka-yelluru"
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  name = "Now"
+  url = "/now/"
+  weight = 2
+
+[[menu.main]]
+  name = "Blog"
+  url = "/posts/"
+  weight = 3
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 4
