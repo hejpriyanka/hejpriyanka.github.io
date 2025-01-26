@@ -109,7 +109,6 @@ draft: false
 ---
 
 📧 hejpriyanka@gmail.com  
-📱 +46 76 720 37 70  
 📍 Kista, Stockholm  
 🔗 [LinkedIn](https://linkedin.com/in/priyanka-yelluru)
 
