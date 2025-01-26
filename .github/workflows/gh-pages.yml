@@ -1,32 +1,37 @@
-name: Deploy to GitHub Pages
+name: Deploy Hugo Site
 
 on:
   push:
-    branches:
-      - main  # Change this to your default branch
+    branches: [ "main" ]  # Only trigger on main branch updates
+  pull_request:
+    branches: [ "main" ]  # Optional: Add status checks for PRs
 
 jobs:
   deploy:
     runs-on: ubuntu-24.04
-    permissions:
-      contents: write  # Add this line to grant write permissions
-
+    if: github.ref == 'refs/heads/main'  # Extra safeguard
+    
     steps:
       - uses: actions/checkout@v4
         with:
           submodules: recursive
+          fetch-depth: 0  # Required for Hugo version detection
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: '0.142.0'
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: |
+          hugo --minify --gc
+          # Validate built files
+          [ -s public/index.html ] || exit 1
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
           publish_dir: ./public
