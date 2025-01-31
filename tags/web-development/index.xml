@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Web Development on Priyanka Yelluru</title><link>https://yourdomain.com/tags/web-development/</link><description>Recent content in Web Development on Priyanka Yelluru</description><generator>Hugo -- 0.142.0</generator><language>en</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://yourdomain.com/tags/web-development/index.xml" rel="self" type="application/rss+xml"/><item><title>Understanding HTTP Status Codes in REST API Design</title><link>https://yourdomain.com/blog/http-status-codes/</link><pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate><guid>https://yourdomain.com/blog/http-status-codes/</guid><description>&lt;h2 id="the-language-of-web-conversations-">The Language of Web Conversations 🌐&lt;/h2>
+&lt;p>HTTP status codes are the internet&amp;rsquo;s secret handshake. Here&amp;rsquo;s your decoder ring:&lt;/p>
+&lt;h3 id="1xx-informational">1xx: Informational&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>100 Continue&lt;/strong>: &amp;ldquo;Keep sending, I&amp;rsquo;m listening!&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;h3 id="2xx-success">2xx: Success&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>200 OK&lt;/strong>: &amp;ldquo;Everything worked perfectly!&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>201 Created&lt;/strong>: &amp;ldquo;New resource born successfully&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>204 No Content&lt;/strong>: &amp;ldquo;Request succeeded, nothing to show&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;h3 id="3xx-redirection">3xx: Redirection&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>301 Moved Permanently&lt;/strong>: &amp;ldquo;We&amp;rsquo;ve moved houses!&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>304 Not Modified&lt;/strong>: &amp;ldquo;Cache still fresh ☕&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;h3 id="4xx-client-errors">4xx: Client Errors&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>400 Bad Request&lt;/strong>: &amp;ldquo;Check your syntax, friend&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>401 Unauthorized&lt;/strong>: &amp;ldquo;Who goes there?&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>404 Not Found&lt;/strong>: &amp;ldquo;Digital ghost town&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>418 I&amp;rsquo;m a teapot&lt;/strong>: (RFC 2324 Easter egg 🫖)&lt;/li>
+&lt;/ul>
+&lt;h3 id="5xx-server-errors">5xx: Server Errors&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>500 Internal Error&lt;/strong>: &amp;ldquo;Our bad!&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>503 Service Unavailable&lt;/strong>: &amp;ldquo;Try again later&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Pro Tip:&lt;/strong> Always return appropriate status codes with meaningful error messages:&lt;/p></description></item></channel></rss>
