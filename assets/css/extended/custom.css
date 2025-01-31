@@ -1,0 +1,15 @@
+.custom-button {
+    display: inline-block;
+    padding: 0.8rem 1.5rem;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white !important;
+    border-radius: 25px;
+    transition: transform 0.3s ease;
+    text-decoration: none;
+    margin: 1rem 0;
+  }
+  
+  .custom-button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  }

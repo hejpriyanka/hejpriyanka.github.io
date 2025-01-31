@@ -1,0 +1,27 @@
+baseURL: "https://yourdomain.com/"
+title: "Priyanka Yelluru"
+theme: ["PaperMod"]
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/about"
+      weight: 2
+    - name: "Blog"
+      url: "/blog"
+      weight: 3
+    - name: "Now"
+      url: "/now"
+      weight: 4
+    - name: "Portfolio"
+      url: "/portfolio"
+      weight: 5
+    - name: "Contact"
+      url: "/contact"
+      weight: 6
+
+params:
+  description: "Software Engineer | Python Developer | Cloud Enthusiast"
