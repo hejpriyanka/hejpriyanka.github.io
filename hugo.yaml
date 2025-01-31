@@ -1,6 +1,6 @@
 baseURL: "https://priya.se/"
 title: "Priyanka Yelluru"
-theme: ["PaperMod"]
+theme: ["papermod"]
 
 menu:
   main:
