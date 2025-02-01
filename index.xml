@@ -82,4 +82,4 @@
 &lt;li>&lt;strong>500 Internal Error&lt;/strong>: &amp;ldquo;Our bad!&amp;rdquo;&lt;/li>
 &lt;li>&lt;strong>503 Service Unavailable&lt;/strong>: &amp;ldquo;Try again later&amp;rdquo;&lt;/li>
 &lt;/ul>
-&lt;p>&lt;strong>Pro Tip:&lt;/strong> Always return appropriate status codes with meaningful error messages:&lt;/p></description></item></channel></rss>
+&lt;p>&lt;strong>Pro Tip:&lt;/strong> Always return appropriate status codes with meaningful error messages:&lt;/p></description></item><item><title>Understanding Python Data Types: Lists, Tuples, and Dictionaries</title><link>https://priya.se/blog/python/python_data_types/</link><pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate><guid>https://priya.se/blog/python/python_data_types/</guid><description>Learn about Python&amp;#39;s data types, including lists, tuples, and dictionaries, and how they are used in real-world scenarios.</description></item></channel></rss>
