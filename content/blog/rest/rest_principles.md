@@ -11,6 +11,9 @@ REST (Representational State Transfer) is one of the most widely adopted archite
 
 ## What is REST?
 
+![Alt rest principles](/images/Characteristics-of-REST.png)
+
+
 REST is an architectural style introduced by Roy Fielding in his doctoral dissertation. It is not a protocol but a set of constraints that, when applied to a networked system (typically web services), enable scalability, simplicity, and reliability. RESTful APIs leverage HTTP methods, URIs, and standard data formats like JSON or XML to facilitate communication between clients and servers.
 
 ## Core REST Principles
