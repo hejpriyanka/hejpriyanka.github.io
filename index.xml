@@ -50,37 +50,7 @@
 &lt;p>📧 &lt;strong>Email&lt;/strong>: &lt;a href="mailto:hejpriyanka@gmail.com">hejpriyanka@gmail.com&lt;/a>&lt;/p>
 &lt;p>💼 &lt;strong>LinkedIn&lt;/strong>: &lt;a href="https://linkedin.com/in/priyanka-yelluru">Let&amp;rsquo;s Professionalize!&lt;/a>&lt;/p>
 &lt;p>🐙 &lt;strong>GitHub&lt;/strong>: &lt;a href="https://github.com/hejpriyanka">Code Adventures&lt;/a>&lt;/p>
-&lt;p>&lt;em>For fastest response: Carrier pigeon trained on Python syntax&lt;/em>&lt;/p></description></item><item><title>Professional Portfolio</title><link>https://priya.se/portfolio/</link><pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate><guid>https://priya.se/portfolio/</guid><description>&lt;h2 id="technical-arsenal-">Technical Arsenal 🛠️&lt;/h2>
-&lt;h3 id="-core-competencies">🏆 Core Competencies&lt;/h3>
-&lt;ul>
-&lt;li>Cloud Architecture (AWS Expert)&lt;/li>
-&lt;li>Python Development &amp;amp; Automation&lt;/li>
-&lt;li>REST API Design&lt;/li>
-&lt;li>Data Engineering &amp;amp; Analysis&lt;/li>
-&lt;/ul>
-&lt;h3 id="-signature-projects">🚀 Signature Projects&lt;/h3>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>Customer Support Automation Suite&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Reduced ticket resolution time by 40%&lt;/li>
-&lt;li>AWS Lambda + Python + DynamoDB stack&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Airbus Internal Automation System&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Streamlined order tracking processes&lt;/li>
-&lt;li>Microservices architecture with Node.js&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h3 id="-certifications">📜 Certifications&lt;/h3>
-&lt;ul>
-&lt;li>NVIDIA AI Practitioner&lt;/li>
-&lt;li>MongoDB for Python Developers&lt;/li>
-&lt;li>100 Days of Python Pro&lt;/li>
-&lt;/ul></description></item><item><title>Understanding HTTP Status Codes in REST API Design</title><link>https://priya.se/blog/http-status-codes/</link><pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate><guid>https://priya.se/blog/http-status-codes/</guid><description>&lt;h2 id="the-language-of-web-conversations-">The Language of Web Conversations 🌐&lt;/h2>
+&lt;p>&lt;em>For fastest response: Carrier pigeon trained on Python syntax&lt;/em>&lt;/p></description></item><item><title>Understanding HTTP Status Codes in REST API Design</title><link>https://priya.se/blog/http-status-codes/</link><pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate><guid>https://priya.se/blog/http-status-codes/</guid><description>&lt;h2 id="the-language-of-web-conversations-">The Language of Web Conversations 🌐&lt;/h2>
 &lt;p>HTTP status codes are the internet&amp;rsquo;s secret handshake. Here&amp;rsquo;s your decoder ring:&lt;/p>
 &lt;h3 id="1xx-informational">1xx: Informational&lt;/h3>
 &lt;ul>
@@ -113,4 +83,10 @@
 &lt;p>FastAPI is a modern, fast (high-performance) web framework for building APIs with Python 3.7+ based on standard Python type hints. It&amp;rsquo;s incredibly easy to learn and use, and boasts automatic interactive API documentation (Swagger UI) and data validation. This guide will walk you through building a simple REST API with FastAPI, demonstrating its key features.&lt;/p>
 &lt;h2 id="what-well-build">What We&amp;rsquo;ll Build&lt;/h2>
 &lt;p>We&amp;rsquo;ll create a simple API that manages a list of &amp;ldquo;items.&amp;rdquo; It will have endpoints for:&lt;/p></description></item><item><title>Why FastAPI is My Go-To Framework for Backend Development</title><link>https://priya.se/blog/rest/fast-api-compare/</link><pubDate>Fri, 27 Oct 2023 10:00:00 +0000</pubDate><guid>https://priya.se/blog/rest/fast-api-compare/</guid><description>&lt;h1 id="why-fastapi-is-my-go-to-framework-for-backend-development">Why FastAPI is My Go-To Framework for Backend Development&lt;/h1>
-&lt;p>Python offers a rich ecosystem of web frameworks, making it a popular choice for backend development. While frameworks like Flask and Django have been staples for years, FastAPI has emerged as a strong contender, and in many cases, my preferred choice. This post explores why I find FastAPI so compelling, comparing it with Flask and Django, highlighting its performance advantages, and discussing its excellent support for asynchronous programming.&lt;/p></description></item><item><title>MongoDB Atlas for Python Developers: Best Practices from My Certification Journey</title><link>https://priya.se/blog/databases/best-practices-mongodb/</link><pubDate>Fri, 25 Aug 2023 15:30:00 +0200</pubDate><guid>https://priya.se/blog/databases/best-practices-mongodb/</guid><description>Practical lessons learned from implementing MongoDB Atlas in Python projects, including CRUD optimizations and indexing strategies</description></item><item><title>Understanding Python Data Types: Lists, Tuples, and Dictionaries</title><link>https://priya.se/blog/python/python_data_types/</link><pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate><guid>https://priya.se/blog/python/python_data_types/</guid><description>Learn about Python&amp;#39;s data types, including lists, tuples, and dictionaries, and how they are used in real-world scenarios.</description></item></channel></rss>
+&lt;p>Python offers a rich ecosystem of web frameworks, making it a popular choice for backend development. While frameworks like Flask and Django have been staples for years, FastAPI has emerged as a strong contender, and in many cases, my preferred choice. This post explores why I find FastAPI so compelling, comparing it with Flask and Django, highlighting its performance advantages, and discussing its excellent support for asynchronous programming.&lt;/p></description></item><item><title>MongoDB Atlas for Python Developers: Best Practices from My Certification Journey</title><link>https://priya.se/blog/databases/best-practices-mongodb/</link><pubDate>Fri, 25 Aug 2023 15:30:00 +0200</pubDate><guid>https://priya.se/blog/databases/best-practices-mongodb/</guid><description>Practical lessons learned from implementing MongoDB Atlas in Python projects, including CRUD optimizations and indexing strategies</description></item><item><title>Understanding Python Data Types: Lists, Tuples, and Dictionaries</title><link>https://priya.se/blog/python/python_data_types/</link><pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate><guid>https://priya.se/blog/python/python_data_types/</guid><description>Learn about Python&amp;#39;s data types, including lists, tuples, and dictionaries, and how they are used in real-world scenarios.</description></item><item><title/><link>https://priya.se/portfolio/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://priya.se/portfolio/</guid><description>&lt;h1 id="priyanka-yelluru">Priyanka Yelluru&lt;/h1>
+&lt;p>&lt;strong>Backend Developer | Cloud &amp;amp; Automation Specialist&lt;/strong>&lt;br>
+📍 Kista, Stockholm, Sweden | 📞 +46 76 720 37 70&lt;br>
+📧 &lt;a href="mailto:hejpriyanka@gmail.com">hejpriyanka@gmail.com&lt;/a> | 🔗 &lt;a href="https://linkedin.com/in/priyanka-yelluru">LinkedIn&lt;/a> | 🌐 &lt;a href="https://priya.se">www.priya.se&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h3 id="about-me">&lt;strong>About Me&lt;/strong>&lt;/h3>
+&lt;p>Backend developer with expertise in Python, JavaScript, AWS, and Automation. Passionate about building scalable backend systems, microservices, and optimizing workflows through cloud technologies. Strong foundation in test automation, database management, and CI/CD pipelines. Adept at developing RESTful APIs and enhancing system efficiency using cloud-native solutions. Proven ability to collaborate in Agile teams to deliver robust software solutions.&lt;/p></description></item></channel></rss>
