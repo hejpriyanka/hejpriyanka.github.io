@@ -10,7 +10,7 @@ categories: ["Language Learning"]
 
 cover:
 
-  image: "https://example.com/swedish-cover.jpg" # Replace with your cover image
+  image: "/images/evelina_ytterbom-learning_swedish-8679.jpg"
 
   alt: "Swedish flag and cinnamon buns"
 
