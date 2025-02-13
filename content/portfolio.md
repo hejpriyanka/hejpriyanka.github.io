@@ -94,5 +94,11 @@ English (Professional) | Telugu (Native) | Swedish (Basic)
 
 ---
 
+**[View All My Recent Courses and Certifications](/images/Certificates_Priyanka_Yelluru.pdf)**
+
+**[Download My CV Here](/images/Priyanka_Yelluru_CV_Developer.pdf)**
+
+---
+
 📌 *References available upon request | Updated February 2025*
 
