@@ -9,7 +9,7 @@ tags: ["ETL", "Data Engineering", "Data Cleaning", "Normalization", "SQL"]
 ## Introduction
 In data processing, raw data from source systems is often inconsistent, messy, or lacks standardization. Data transformation techniques help to clean, normalize, and harmonize this data before it is used for analysis or loaded into structured schemas like a data warehouse. This blog explores multiple techniques used in SQL-based data transformation to convert raw data into clean, meaningful information.
 
-## 1. Removing Unnecessary Whitespace
+## 1. Removing Unnecessary Whitespaces
 **Purpose:** Trim leading and trailing whitespace to maintain consistency in textual fields.
 
 ### Example:
