@@ -1,6 +1,6 @@
 ---
 title: "About Priya"
-date: 2024-01-15
+date: 2024-09-15
 ---
 
 ## From Village Roots to Tech Frontiers

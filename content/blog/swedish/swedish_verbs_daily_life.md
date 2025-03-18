@@ -1,7 +1,7 @@
 ---
 title: "Common Swedish Verbs in Daily Life"
-date: 2024-07-10
-author: KrishnaPayyavula
+date: 2024-11-10
+author: Priyanka Yelluru
 
 tags: ["Swedish Language", "Culture", "Travel Tips"]
 

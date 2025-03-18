@@ -1,7 +1,7 @@
 ---
 title: "Swedish Pronouns and Commonly Used Nouns"
 date: 2024-07-07
-author: Krishna Payyavula
+author: Priyanka Yelluru
 description: "A comprehensive guide to Swedish pronouns and some of the most commonly used nouns."
 tags: ["Swedish", "Language", "Pronouns", "Nouns"]
 ---
